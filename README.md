@@ -11,3 +11,4 @@ Registration form for practice css
 9. Using box-sizing: border-box for having paddings and borders included in widths
 10. What type of styling should be put on the body
 11. Using h1 + p to write styles for the first direct child of the h1. The first p element after h1
+12. Using border-image: linear-gradient(direction, #colorstart, #colorend) 1. To create a top border with gradients. The 1 for border slice is needed for it to work
